@@ -1,2 +1,1 @@
-# everythingJava
-code for java beginners
+# Java Programming Language
