@@ -1,4 +1,4 @@
-
+package SimpleProgram;
 /**
  * Write a description of class CannotFlyException here.
  *
