@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=SwitchNotBreak
+comment0.text=\r\n\ In\ this\ SwitchNotBreak\ class\ we\ use\ switch\ without\ break\r\n\ if\ the\ given\ number\ is\ match\ with\ the\ crossponding\ \r\n\ case,\ then\ that\ case\ will\ be\ execute\ after\ the\ executing\ \r\n\ remaining\ case\ (below\ that\ case)\ will\ be\ execute.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

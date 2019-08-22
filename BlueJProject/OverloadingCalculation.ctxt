@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=OverloadingCalculation
+comment0.text=\r\n\ If\ a\ class\ has\ multiple\ methods\ having\ same\ name\ but\ \r\n\ different\ in\ parameters,\ it\ is\ known\ as\ Method\ Overloading.\ \r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=a\ b
+comment1.target=void\ sum(int,\ long)
+comment2.params=a\ b\ c
+comment2.target=void\ sum(int,\ int,\ int)
+numComments=3

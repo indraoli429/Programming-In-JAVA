@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=PrLanguage
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PrLanguage\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=PrLanguage()
+comment2.params=t
+comment2.target=PrLanguage(java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment4.params=t
+comment4.target=void\ setName(java.lang.String)
+comment5.params=
+comment5.target=void\ getName()
+numComments=6

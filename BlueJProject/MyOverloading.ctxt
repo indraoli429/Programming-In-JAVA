@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MyOverloading
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyOverloading\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=MyOverloading()
+comment2.params=i
+comment2.target=MyOverloading(int)
+comment3.params=str
+comment3.target=MyOverloading(java.lang.String)
+comment4.params=i\ j
+comment4.target=MyOverloading(int,\ int)
+comment5.params=a
+comment5.target=void\ main(java.lang.String[])
+numComments=6

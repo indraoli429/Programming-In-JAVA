@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=StringComparisons
+comment0.text=\r\n\ The\ equals()\ method\ compares\ two\ strings,\ character\ \r\n\ bycharacter,\ to\ determine\ equality.\ This\ is\ not\ the\ default\ \r\n\ im\u2010plementation\ of\ the\ equals()\ method\ provided\ by\ the\ Object\ \r\n\ class.\ This\ is\ the\ overridden\ implementation\ providedby\ String\r\n\ class.\r\n\ \r\n\ The\ \ \=\=\ \ operator\ \ checks\ \ to\ \ see\ \ whether\ \ two\ \ object\ \ \r\n\ refer\u2010ences\ refer\ to\ the\ same\ instance\ of\ an\ object.\r\n
+comment1.params=
+comment1.target=void\ myMethod()
+numComments=2

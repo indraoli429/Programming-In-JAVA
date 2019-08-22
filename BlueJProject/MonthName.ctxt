@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MonthName
+comment0.text=\r\n\ Description\ of\ class\ MonthName\:\r\n\ display\ the\ Name\ of\ the\ month\ according\ to\ \r\n\ the\ given\ numberby\ using\ Switch\ statement.\ \r\n\ Variable\:\ int\ and\ String\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

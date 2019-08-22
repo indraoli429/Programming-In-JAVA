@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MaleFemale
+comment0.text=\r\n\ In\ this\ MaleFemale\ class\ I\ used\ the\ nested\ If\ condition.\ \r\n\ Nested\ If\ condition\ means\ if-else\ statement\ with\ another\ \r\n\ if-else\ statement\ as\ insiide\ the\ if\ body\ or\ inside\ the\ else\ body.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ main()
+numComments=2

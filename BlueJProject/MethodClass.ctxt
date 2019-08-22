@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MethodClass
+comment1.params=
+comment1.target=void\ show()
+comment1.text=\ \r\n\ Create\ a\ method\ called\ static\ method\ show\ of\ non\ return\ type\ \r\n\ Create\ a\ local\ variable\ of\ int\ called\ x\ inside\ this\ method\ \r\n\ Assign\ value\ x\ as\ 6\ and\ print\ the\ value\ of\ s\ and\ x\ in\ this\ method\ \r\n
+numComments=2

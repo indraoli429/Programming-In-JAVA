@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=Array
+comment0.text=\r\nArrays\ are\ always\ given\ a\ default\ value\ whether\ they\ are\ declaredas\ instance\ \r\nvariables\ or\ local\ variables.\ Arrays\ that\ are\ declaredbut\ not\ initialized\ are\ \r\ngiven\ a\ default\ value\ of\ null.\ \ \ \r\n
+numComments=1

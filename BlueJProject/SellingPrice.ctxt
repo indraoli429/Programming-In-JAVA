@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=SellingPrice
+comment0.text=\r\n\ Description\ of\ class\ SellingPrice\:\r\n\ display\ the\ selling\ price\ of\ the\ item\ according\ to\ \r\n\ the\ given\ discount\ percent\ which\ is\ based\ on\ the\ different\ \r\n\ categories.\ Using\ if-elseif\ statement\r\n\ Variables\:\ Float\ variable\ and\ Character\ variable.\r\n.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
