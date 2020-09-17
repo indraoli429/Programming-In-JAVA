@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CoreJavaExample/CoreJavaExample.iml" filepath="$PROJECT_DIR$/CoreJavaExample/CoreJavaExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programming-In-JAVA.iml" filepath="$PROJECT_DIR$/Programming-In-JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TxtFileReadWrite/TxtFileReadWrite.iml" filepath="$PROJECT_DIR$/TxtFileReadWrite/TxtFileReadWrite.iml" />
+    </modules>
+  </component>
+</project>
